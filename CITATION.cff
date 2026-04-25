@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Open Consumer Software"
+message: "If you cite Open Consumer Software, please cite this repository."
+type: generic
+authors:
+  - family-names: "Sennerholt"
+repository-code: "https://github.com/sennerholt/open-consumer-software"
+url: "https://github.com/sennerholt/open-consumer-software"
+license: "CC-BY-4.0"
+version: "0.1.0"
+date-released: "2026-04-25"
+abstract: "Open Consumer Software is a design paradigm for building software as durable capability rails with replaceable skins, enabling consumer sovereignty, situated workflows, and freedom from mandatory first-party interfaces."

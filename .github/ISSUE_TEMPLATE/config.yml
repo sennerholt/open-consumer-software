@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Open Consumer Software repository
+    url: https://github.com/sennerholt/open-consumer-software
+    about: Use GitHub issues for doctrine, packaging, examples, and skill feedback.

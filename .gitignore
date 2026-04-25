@@ -1,0 +1,18 @@
+.DS_Store
+Thumbs.db
+
+# Editor and local workspace files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
